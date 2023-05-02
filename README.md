@@ -1,4 +1,4 @@
-<h1 align="center"> "<Welcome to the real world./>" </h1>
+<h1 align="center"> &lt;Welcome to the real world./&gt; </h1>
 
 <h2>🛠️ My Skill Set</h2>
 
@@ -24,3 +24,6 @@
   </a>
 </p>
 
+<p align="center">
+  &lt;3 Keanu
+</p>
