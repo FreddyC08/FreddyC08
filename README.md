@@ -1,7 +1,3 @@
-<head>
-  <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-
 <h1 align="center"><👋Hello, world!/></h1>
 
 <h2>🛠️ My Skill Set</h2>
