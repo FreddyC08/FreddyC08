@@ -13,13 +13,13 @@
 <h2>📊 My GitHub Stats</h2>
 
 <p align="center">
-  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=FreddyC08">
+  <img width="600px" src="https://github-readme-stats.vercel.app/api?username=FreddyC08">
 </p>
 
 <h2>🤝 Connect With Me</h2>
 
 <p align="center">
   <a href="mailto:freddyclarke51@gmail.com">
-    <img alt="Our lord and saviour Keanu" src="https://user-images.githubusercontent.com/81486482/235749020-e0e90ff4-a794-439d-adf5-b5892619f517.png"/>
+    <img width="600px" alt="Our lord and saviour Keanu" src="https://user-images.githubusercontent.com/81486482/235749020-e0e90ff4-a794-439d-adf5-b5892619f517.png"/>
   </a>
 </p>
