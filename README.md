@@ -13,7 +13,7 @@
 <h2>📊 My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FreddyC08">
+  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=FreddyC08">
 </p>
 
 <h2>🤝 Connect With Me</h2>
