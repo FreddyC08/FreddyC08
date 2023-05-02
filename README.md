@@ -1,5 +1,6 @@
-<link rel="stylesheet" type="text/css" href="style.css">
-
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
 
 <h1 align="center"><👋Hello, world!/></h1>
 
