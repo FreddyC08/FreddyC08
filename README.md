@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 ### <Hello, world!> 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FreddyC08&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FreddyC08&theme=gruvbox)
