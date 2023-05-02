@@ -12,15 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">👋 Hello, world!</h1>
+<h1 align="center"><👋 Hello, world!/></h1>
 
-<h2 align="center">📊 My Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FreddyC08">
-</p>
-
-<h2 align="center">🛠️ My Skills</h2>
+<h2 align="center">🛠️ My Skill Set</h2>
 
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -28,4 +22,10 @@ Here are some ideas to get you started:
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-%23563D7C.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+</p>
+
+<h2>📊 My GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FreddyC08">
 </p>
