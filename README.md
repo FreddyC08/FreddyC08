@@ -1,3 +1,6 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
+
 <h1 align="center"><👋Hello, world!/></h1>
 
 <h2>🛠️ My Skill Set</h2>
@@ -20,6 +23,7 @@
 
 <p align="center">
   <a href="mailto:freddyclarke51@gmail.com">
-  <img alt="Our lord and saviour Keanu" src="https://user-images.githubusercontent.com/81486482/235749020-e0e90ff4-a794-439d-adf5-b5892619f517.png" style="border-radius: 25px;"/>
+    <img class="rounded" alt="Our lord and saviour Keanu" src="https://user-images.githubusercontent.com/81486482/235749020-e0e90ff4-a794-439d-adf5-b5892619f517.png"/>
   </a>
 </p>
+
