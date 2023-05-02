@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"><👋 Hello, world!/></h1>
 
-<h2 align="center">🛠️ My Skill Set</h2>
+<h2>🛠️ My Skill Set</h2>
 
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
