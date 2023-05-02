@@ -19,8 +19,7 @@
 <h2>🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
-    <img alt="Our lord and saviour Keanu" src="https://user-images.githubusercontent.com/81486482/235746954-fc9a3082-1c76-406f-b0de-7ff9508b5859.png"/>
+  <a href="mailto:freddyclarke51@gmail.com">
+    <img alt="Our lord and saviour Keanu" src="https://user-images.githubusercontent.com/81486482/235749020-e0e90ff4-a794-439d-adf5-b5892619f517.png"/>
   </a>
 </p>
