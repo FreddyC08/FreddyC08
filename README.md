@@ -1,5 +1,8 @@
 <h1 align="center"> &lt;Welcome to the real world./&gt; </h1>
-
+<p align="center">
+  <img width="100px" alt="Matrix logo" src="https://user-images.githubusercontent.com/81486482/236040012-4880d9e9-d9a4-4618-9ac7-9e42d4533a62.png"/>
+</p>
+  
 <h2>🛠️ My Skill Set</h2>
 
 <p align="center">
