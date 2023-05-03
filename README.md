@@ -25,5 +25,5 @@
 </p>
 
 <p align="center">
-  &lt;3 Keanu
+  Keanu &lt;3
 </p>
