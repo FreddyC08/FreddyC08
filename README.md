@@ -1,6 +1,4 @@
-<div align="center">
-  <h1> &lt;Welcome! I'm Freddy/&gt; <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
-</div>
+<h1 align="center"> &lt;Welcome! I'm Freddy/&gt; <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
   
 <h2>🛠️ My Skill Set</h2>
 
